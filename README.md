@@ -1,5 +1,3 @@
----
-
 # 📘 Simulador de Memória Cache — README
 
 ## 🧩 Visão Geral
