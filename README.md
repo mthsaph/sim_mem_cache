@@ -4,7 +4,7 @@
 
 ## 🧩 Visão Geral
 
-Este projeto implementa um simulador educacional de memória cache, permitindo visualizar o funcionamento de:
+Este projeto implementa um **simulador educacional de memória cache**, permitindo visualizar o funcionamento de:
 
 * Memória Principal (MP)
 * Memória Cache com mapeamento por conjunto
